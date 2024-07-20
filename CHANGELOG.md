@@ -2,7 +2,7 @@ CHANGE LOG
 ==========
 
 
-## V1.1.3 (UPCOMING)
+## V1.1.3 (20/07/2024)
 
 * Added support for PHP 8.4
 
