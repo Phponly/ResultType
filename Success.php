@@ -13,8 +13,8 @@ declare(strict_types=1);
 
 namespace GrahamCampbell\ResultType;
 
-use PhpOption\None;
-use PhpOption\Some;
+use Phponly\Onlyoption\None;
+use Phponly\Onlyoption\Some;
 
 /**
  * @template T
