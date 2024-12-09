@@ -11,7 +11,7 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace GrahamCampbell\ResultType;
+namespace Phponly\ResultType;
 
 use Phponly\Onlyoption\None;
 use Phponly\Onlyoption\Some;
